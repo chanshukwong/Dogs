@@ -1,2 +1,2 @@
 # Dogs
-Randomly display dogs
+Randomly display dogs, using another thread to retrieve dogs image list.
